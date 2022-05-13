@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... lots of things 
 - 🌱 I’m currently learning ... patience
 - 💞️ I’m looking to collaborate on ... api improvments 
-- 📫 How to reach me ... through my mind and sould
+- 📫 How to reach me ... through my mind and soul
 
 <!---
 MistyDreams/MistyDreams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
